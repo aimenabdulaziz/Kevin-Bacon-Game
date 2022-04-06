@@ -19,7 +19,7 @@ In addition, the program will help you find other possible Bacons, according to 
 
 The game is implemented in such a way that it handles numerous edge cases. 
 
-This project was done as an assignment for Dartmouth’s Computer Science course. If you are a professor teaching this course and would like me to make the repository private, please reach out to me at [here](mailto:aimenaabdulaziz@gmail.com). Thanks!
+This project was done as an assignment for Dartmouth’s Computer Science course. If you are a professor teaching this course and would like me to make the repository private, please reach out to me [here](mailto:aimenaabdulaziz@gmail.com). Thanks!
 
 Enjoy the game :)
 
